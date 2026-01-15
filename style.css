@@ -1,0 +1,394 @@
+.navbar2 {
+    padding-left: 180px;
+    margin-bottom: -20px;
+    margin-left: 20px;
+}
+
+.rasm {
+    width: 200px;
+    margin-top: -20px;
+    margin-left: 250px;
+    display: block;
+    position: absolute;
+}
+
+.izlash1 {
+    width: 260px;
+    height: 30px;
+    border: 1px solid;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    margin-top: -400px;
+    margin-left: 460px;
+    background-color: rgba(233, 233, 233, 0.856);
+
+
+}
+
+.suz {
+    gap: 5px;
+}
+
+.o {
+    position: absolute;
+    color: rgb(29, 134, 221);
+    margin-left: 920px;
+    margin-top: -18px;
+    text-decoration: none;
+}
+
+.sh {
+    color: red;
+    margin-top: -18px;
+    margin-left: 1050px;
+    text-decoration: none;
+}
+
+
+.top {
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 200px;
+}
+
+
+.ooo {
+    position: absolute;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #28a6f3;
+    color: #fff;
+    margin-left: 1060px;
+    height: 30px;
+    margin-top: -55px;
+}
+
+
+.cards {
+    text-align: center;
+    padding: 0 15px 45px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    gap: 30px;
+
+}
+
+.cards2 {
+    text-align: center;
+    padding: 0 15px 45px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    gap: 30px;
+
+}
+
+
+.cards3 {
+    text-align: center;
+    padding: 0 15px 45px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    gap: 30px;
+}
+
+
+.card1 {
+    background-color: #fff;
+    width: 200px;
+    height: 220px;
+    text-align: center;
+    padding: 0 15px 45px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+    background: linear-gradient(to bottom, rgb(235, 237, 223) 45%, rgb(255, 255, 255) 20%);
+    margin-left: 180px;
+    -webkit-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+
+
+
+}
+
+.card2 {
+    background-color: #fff;
+    width: 200px;
+    height: 220px;
+    text-align: center;
+    padding: 0 15px 45px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+    background: linear-gradient(to bottom, rgb(35, 36, 38) 45%, rgb(255, 255, 255) 20%);
+    -webkit-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+
+
+}
+
+.card3 {
+    background-color: #fff;
+    width: 200px;
+    height: 220px;
+    text-align: center;
+    padding: 0 15px 45px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+    background: linear-gradient(to bottom, rgb(33, 36, 41) 45%, rgb(255, 255, 255) 20%);
+    -webkit-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+
+
+}
+
+.card4 {
+    background-color: #fff;
+    width: 200px;
+    height: 220px;
+    text-align: center;
+    padding: 0 15px 45px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+    background: linear-gradient(to bottom, rgb(191, 192, 187) 45%, rgb(255, 255, 255) 20%);
+    -webkit-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+}
+
+.card5 {
+    background-color: #fff;
+    width: 200px;
+    height: 220px;
+    text-align: center;
+    padding: 0 15px 45px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+    margin-left: 180px;
+    background: linear-gradient(to bottom, rgb(191, 192, 187) 45%, rgb(255, 255, 255) 20%);
+    -webkit-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+}
+
+.card6 {
+    background-color: #fff;
+    width: 200px;
+    height: 220px;
+    text-align: center;
+    padding: 0 15px 45px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+    background: linear-gradient(to bottom, rgb(235, 237, 223) 45%, rgb(255, 255, 255) 20%);
+    -webkit-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+}
+
+.card7 {
+    background-color: #fff;
+    width: 200px;
+    height: 220px;
+    text-align: center;
+    padding: 0 15px 45px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+    background: linear-gradient(to bottom, rgb(190, 189, 184) 45%, rgb(255, 255, 255) 20%);
+    -webkit-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+}
+
+.card8 {
+    background-color: #fff;
+    width: 200px;
+    height: 220px;
+    text-align: center;
+    padding: 0 15px 45px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+    background: linear-gradient(to bottom, rgb(211, 207, 196) 45%, rgb(255, 255, 255) 20%);
+    -webkit-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+}
+
+
+.card9 {
+    background-color: #fff;
+    width: 200px;
+    height: 220px;
+    text-align: center;
+    padding: 0 15px 45px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+    margin-left: 180px;
+    background: linear-gradient(to bottom, rgb(218, 217, 213) 45%, rgb(255, 255, 255) 20%);
+    -webkit-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+}
+
+.card10 {
+    background-color: #fff;
+    width: 200px;
+    height: 220px;
+    text-align: center;
+    padding: 0 15px 45px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+    background: linear-gradient(to bottom, rgb(19, 22, 29) 45%, rgb(255, 255, 255) 20%);
+    -webkit-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+}
+
+.card11 {
+    background-color: #fff;
+    width: 200px;
+    height: 220px;
+    text-align: center;
+    padding: 0 15px 45px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+    background: linear-gradient(to bottom, rgb(223, 228, 241) 45%, rgb(255, 255, 255) 20%);
+    -webkit-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+}
+
+.card12 {
+    background-color: #fff;
+    width: 200px;
+    height: 220px;
+    text-align: center;
+    padding: 0 15px 45px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+    background: linear-gradient(to bottom, rgb(212, 216, 225) 45%, rgb(255, 255, 255) 20%);
+    -webkit-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+    box-shadow: 13px 9px 12px -15px rgba(66, 68, 90, 1);
+}
+
+
+
+
+.rasm1 {
+    width: 90px;
+    height: 90px;
+    margin-top: 9px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+
+.wewe {
+    color: rgba(233, 233, 0, 0.849);
+}
+
+
+
+
+.rasm2 {
+    width: 90px;
+    height: 90px;
+    margin-top: 9px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+
+.rasm3 {
+    width: 90px;
+    height: 90px;
+    margin-top: 9px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.rasm5 {
+    width: 90px;
+    height: 90px;
+    margin-top: 9px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+
+.rasm6 {
+    width: 90px;
+    height: 90px;
+    margin-top: 9px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.rasm7 {
+    width: 90px;
+    height: 90px;
+    margin-top: 9px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.rasm8 {
+    width: 90px;
+    height: 90px;
+    margin-top: 9px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+:root{
+    --background-color: #fff;
+    --text-color: #333;
+    --primary-color: #007bff;
+    --border-color: #ccc;
+}
+
+body.dark-mode{
+    --background-color: #333;
+    --text-color: #fff;
+    --primary-color:#66b3ff;
+    --border-color: #555;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
